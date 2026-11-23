@@ -1,5 +1,15 @@
 {
- "assets": {},
+ "assets": {
+  "Planks035A": "779d64b6bb399341866203e23b511215c1e0c3cd",
+  "Planks035B": "05fec481de68f79feed76e4cd0e5204908ba6c0b",
+  "Planks036A": "90d8b270236e7e5c18e182526434bdf0ea6ffc6e",
+  "Planks036B": "92d5104d442d9d694da475617ccb11f2ccf30813",
+  "Planks037A": "3017c224c33e671b3086863feded054cb25890b4",
+  "Planks037B": "b1d8e9bd05b10ef8b5928f00bc1e0a07f9d4bab3",
+  "Planks038": "3379903b09ec6beff1d3fbeb2c644e328646d9b9",
+  "Planks039": "af55450b14744fb5ad5a92869501cb40b3fe0952",
+  "Planks040": "b9c1e83788178a121da3aa471de312b8df014ca5"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
